@@ -1,0 +1,29 @@
+Evaluation Results:
+--------------------------------------------------
+rouge1: 22.12
+rouge2: 4.88
+rougeL: 15.35
+rougeLsum: 16.98
+
+Sample Predictions:
+--------------------------------------------------
+Example 1:
+Original: There is a "chronic" need for more housing for prison leavers in Wales, according to a charity.
+Generated: Prison Link Cymru, a charity that helps homeless people in Wales, has said the need for accommodation has been "chronic" the charity has said the need for a one-bedroom flat could save the public purse a few pounds a year if they were to stay in a prison.
+
+Example 2:
+Original: A man has appeared in court after firearms, ammunition and cash were seized by police in Edinburgh.
+Generated: Police have recovered three firearms, ammunition and a five-figure sum of money from a man who was arrested and charged with conspiracy to commit a crime in the city of Edinburgh on Thursday. a man who was arrested and charged with conspiracy to commit a crime in Edinburgh has been charged with conspiracy to commit a crime.
+
+Example 3:
+Original: Four people accused of kidnapping and torturing a mentally disabled man in a "racially motivated" attack streamed on Facebook have been denied bail.
+Generated: The four suspects have been charged with hate crimes, aggravated kidnapping and battery, among other things, and aggravated kidnapping of a white victim in a suburban suburb of Chicago. a court heard the suspects stuffed a sock into the victim's mouth, taped his mouth shut and bound his hands with a belt.
+
+Example 4:
+Original: West Brom have appointed Nicky Hammond as technical director, ending his 20-year association with Reading.
+Generated: A former Arsenal goalkeeper has been appointed a youth academy director for the Premier League club West Brom in the summer of 2000 and has been a director of football since 2003, according to a West Brom statement. he played for the Royals twice winning promotion to the Premier League in 2006 and 2012.
+
+Example 5:
+Original: The pancreas can be triggered to regenerate itself through a type of fasting diet, say US researchers.
+Generated: A study by the University of Southern California has found that people with type 1 and type 2 diabetes should not rush off and crash diet if it was done without medical guidance. a diet that regenerated a special type of cell in the pancreas regenerated a hormone called a beta cell.
+
