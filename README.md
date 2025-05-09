@@ -1,7 +1,6 @@
 # T5 Fine-tuning Project
 
-## streamlit Demo
-t5-summarizer-demo.streamlit.app/
+## [🔗 Streamlit Demo](https://t5-summarizer-demo.streamlit.app/)
 
 ## Project Summary and Objective
 This project aims to fine-tune the T5 language model for text summarization . The primary objective is to create a model that can generate concise, accurate summaries of longer text passages while maintaining the context and key information from the original content.
