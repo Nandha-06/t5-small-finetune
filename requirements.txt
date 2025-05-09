@@ -4,7 +4,7 @@ evaluate
 nltk
 rouge_score
 # PyTorch with CUDA support
-torch==2.5.1+cu121
+torch
 torchvision
 torchaudio
 accelerate>=0.26.0
